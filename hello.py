@@ -1,4 +1,9 @@
 def hello():
+    """Return the greeting string ``"Hello, World!"``.
+
+    Returns:
+        str: The greeting ``"Hello, World!"``.
+    """
     return "Hello, World!"
 
 
