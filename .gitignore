@@ -1,2 +1,4 @@
 .symphony/
 .baton-harness/
+__pycache__/
+*.pyc
